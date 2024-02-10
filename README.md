@@ -1,4 +1,4 @@
-# Nessus-10.7.0 Policy Template Version 202401122041 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.Nessus-10.7.0-Crack-latest)
+# Nessus-10.7.0 Version 202401122041 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.Nessus-10.7.0-Crack-latest)
 Nessus cracked version [Applicable to Ubuntu System]
 - The operation method is the same as above.
 - Download file: nessus_ubuntu.sh or directly copy the following code and save it as nessus_ubuntu.sh
