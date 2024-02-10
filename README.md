@@ -19,3 +19,6 @@ apt remove nessus
 - Problem: After the system or Nessus is restarted, the scan button may be temporarily unavailable.
 - Reason: Nessus is reconfiguring the plug-in.
 - Solution: Just wait patiently for 3 to 5 minutes.
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=k4t3pr0/Nessus-10.7.0-Crack-latest&type=Date)](https://star-history.com/#k4t3pr0/Nessus-10.7.0-Crack-latest&Date)
