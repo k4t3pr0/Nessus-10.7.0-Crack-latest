@@ -2,6 +2,9 @@
 Nessus cracked version [Applicable to Ubuntu System]
 - The operation method is the same as above.
 - Download file: nessus_ubuntu.sh or directly copy the following code and save it as nessus_ubuntu.sh
+```sh
+  chmod +x nessus_ubuntu.sh && ./nessus_ubuntu.sh
+```
 ## Uninstall method
 - 【1】Stop the Nessus service.
 ```sh
