@@ -1,7 +1,6 @@
-# Nessus-10.7.0 ![Version](https://img.shields.io/badge/Version-10.7.0-da282a) ![Plugin version](https://img.shields.io/badge/Plugin version: 202401292356-da282a) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.Nessus-Kali-10.7.0-Crack-latest)
+# Nessus-10.7.0 ![Version](https://img.shields.io/badge/Version-10.7.0-da282a) ![Version](https://img.shields.io/badge/Plugin version: 202401292356-da282a) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.Nessus-Kali-10.7.0-Crack-latest)
 -"Nessus cracked version [For Debian system]
 -The installation script is suitable for Debian systems and can be successfully installed on Kali Linux. For Ubuntu systems, you can download it at the end of the article.
-#### Plugin version: 202401292356
 ### Installation method:
 -[1] Download the nessus.sh script.
 -Download file: nessus.sh
