@@ -8,7 +8,7 @@
 -Download file: nessus.sh
 -Or directly copy the following code and save it as nessus.sh"
 ```sh
-  chmod +x nessus.sh && ./nessus.sh
+  chmod +x nessus_ubuntu.sh && ./nessus_ubuntu.sh
 ```
 ## Uninstall method
 - 【1】Stop the Nessus service.
