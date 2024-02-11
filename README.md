@@ -2,7 +2,7 @@
 -"Nessus cracked version [For Debian system]
 -The installation script is suitable for Debian systems and can be successfully installed on Kali Linux. For Ubuntu systems, you can download it at the end of the article.
 ### Installation method:
--[1] Download the nessus.sh script.
+- [1] Download the nessus.sh script.
 -Download file: nessus.sh
 -Or directly copy the following code and save it as nessus.sh"
 ```sh
